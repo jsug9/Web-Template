@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-For a live demo of the Portfolio [click here](https://jsug9.github.io/(project-name)).
+For a live demo of the Portfolio [click here](https://jsug9.github.io/(project-name)/).
 
 ## Getting Started
 
