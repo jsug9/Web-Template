@@ -23,10 +23,7 @@ To get a local copy of the project, follow these steps:
  git clone https://github.com/jsug9/(project-name)
  ```
  ```
- cd To-Do-list
- ```
- ```
- open index.html
+ cd (project-name)
  ```
 
 ## Author
