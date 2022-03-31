@@ -19,9 +19,15 @@ For a live demo of the Portfolio [click here](https://jsug9.github.io/(project-n
 To get a local copy of the project, follow these steps: 
 1. Open the terminal and navigate to the folder where you would like to put these files.
 2. Type the following commands into the terminal: 
- - git clone https://github.com/jsug9/(project-name)
- - cd (project-name)
- - open index.html
+ ```
+ git clone https://github.com/jsug9/(project-name)
+ ```
+ ```
+ cd To-Do-list
+ ```
+ ```
+ open index.html
+ ```
 
 ## Author
 
